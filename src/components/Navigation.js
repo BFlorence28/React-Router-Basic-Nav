@@ -13,7 +13,7 @@ const Navigation = () => {
           <Link to="/about">About</Link>
         </div>
         <div>
-          <Link to="/contact">Contact</Link>
+          <Link to="/contact">Contact Blake 2.0</Link>
         </div>
       </div>
     </div>
